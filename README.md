@@ -4,4 +4,5 @@
 
 I am working with freecodecamp and I'm trying to get a Responsive Web Design lessons
 
-[go](https://jekase9.github.io/Coffee-Menu/){:target="_blank" rel="noopener"}
+kramdown:
+  input: Kramdown
